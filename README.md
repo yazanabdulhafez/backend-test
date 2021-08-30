@@ -1,3 +1,3 @@
 # backend test
 
-## auther:Yazan Alkharabsheh
+## author:Yazan Alkharabsheh
